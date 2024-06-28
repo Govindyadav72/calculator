@@ -1,5 +1,5 @@
 # Benchmark
-name: Benchmark
+name: hidden
 
 on:
   workflow_dispatch:
